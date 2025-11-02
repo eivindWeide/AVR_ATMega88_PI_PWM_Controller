@@ -7,3 +7,7 @@ Project for using ATMega88 to controll a motor with PWM.
 
 ### Board schematic:
 ![AVR_board](https://github.com/user-attachments/assets/968dbeb5-56ea-415c-aecb-f668fd58e1f3)
+
+
+### Final result:
+![PXL_20231218_224502433](https://github.com/user-attachments/assets/d5767a1e-42e6-4524-a0bc-6bf18fa8c1f5)
